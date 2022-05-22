@@ -1,0 +1,11 @@
+Ramen, 5.43
+Ice Cream, 3.00
+Burger, 4.00
+Pizza, 5
+Chips, 10.0
+French Fries w/ Cheese , 1000.0
+Seaweed Snack , 10.0
+Cheesestick, 1.0
+Cheesestick, 1.99
+Mac and cheese, 100.0
+Black Edition Ramen, 13.0
