@@ -10,7 +10,7 @@
  *         https://open.umn.edu/opentextbooks/textbooks/java-java-
  *         java-object-oriented-problem-solving
  * 
- *         Version: 2021-12 (4.22.0)
+ *         Version: 2021-12 (4.22.0) 
  *         Responsibilities of class:
  *         Methods that use objects and args, storing variables, constructing
  *         objects.
