@@ -23,7 +23,7 @@ public class OrderInformation
 	//Order has a Cart - Riley
 	private Cart placedCartOrder;
 	
-	//incrementer variable - Riley 
+	//incrementer variable - Rile 
 	private static int orderIdIncreaser = 1;
 	
 	//unique order ID - Riley
